@@ -1,0 +1,39 @@
+{
+  "name": "zh06",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@serialport/parser-byte-length": "^9.0.7",
+    "serialport": "^9.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lint": "echo \"Warning: lint is not used\" && exit 0",
+    "build": "echo \"Warning: build is not used\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mizuka-ninomae/zh06.git"
+  },
+  "keywords": [
+    "ZH06",
+    "ZH06-I",
+    "ZH06-II",
+    "ZH06-III",
+    "ZH06-VI",
+    "ZH07",
+    "PM10",
+    "PM2.5",
+    "PM1",
+    "Air",
+    "Quality",
+    "sensor"
+  ],
+  "author": "mizuka-ninomae",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mizuka-ninomae/zh06/issues"
+  },
+  "homepage": "https://github.com/mizuka-ninomae/zh06#readme"
+}
